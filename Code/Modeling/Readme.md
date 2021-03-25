@@ -1,3 +1,3 @@
 # This folder contains code for modeling and related activities (such as feature engineering, model evaluation etc.)
 
-You can add detailed description in this markdown related to your specific data science project.
+Notebooks ready for deployment will be stored in this folder. [Papermill](https://papermill.readthedocs.io/en/latest/) will be used to parameterize and execute these notebooks. Other notebooks should be placed in the [Data_Exploration](https://github.com/Respectzorg/DDI-TDSP-ProjectTemplate/tree/master/Docs/Data_Exploration) folder.
