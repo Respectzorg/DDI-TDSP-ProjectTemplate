@@ -1,6 +1,7 @@
 # Folder for hosting all documents for a Data Science Project
 
-Documents will contain information about the following 
+
+You can find documents that can contain information about the following 
 
 1. System architecture
 2. Data dictionaries
