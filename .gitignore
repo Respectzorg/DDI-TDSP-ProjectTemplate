@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+Output/
+__pycache__/
+Code/configuration.yaml
